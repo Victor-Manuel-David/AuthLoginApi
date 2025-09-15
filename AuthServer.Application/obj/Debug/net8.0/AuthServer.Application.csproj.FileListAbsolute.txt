@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\bin\Debug\net8.0\AuthServer.Application.deps.json
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\bin\Debug\net8.0\AuthServer.Application.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\bin\Debug\net8.0\AuthServer.Application.pdb
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\bin\Debug\net8.0\AuthServer.Domain.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\bin\Debug\net8.0\AuthServer.Domain.pdb
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.AssemblyInfo.cs
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServ.F8ED7107.Up2Date
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\refint\AuthServer.Application.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\AuthServer.Application.pdb
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Application\obj\Debug\net8.0\ref\AuthServer.Application.dll

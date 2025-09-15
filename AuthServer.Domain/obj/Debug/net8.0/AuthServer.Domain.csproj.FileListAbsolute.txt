@@ -1,0 +1,11 @@
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\bin\Debug\net8.0\AuthServer.Domain.deps.json
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\bin\Debug\net8.0\AuthServer.Domain.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\bin\Debug\net8.0\AuthServer.Domain.pdb
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\AuthServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\AuthServer.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\AuthServer.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\AuthServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\AuthServer.Domain.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\refint\AuthServer.Domain.dll
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\AuthServer.Domain.pdb
+C:\Users\user\Documents\PruebaTécnica\src\AuthServer.Domain\obj\Debug\net8.0\ref\AuthServer.Domain.dll
