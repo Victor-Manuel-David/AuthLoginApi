@@ -37,12 +37,5 @@ Este proyecto es un servicio de autenticación y login desarrollado en .NET 8.0.
 - Endpoint principal: `/api/auth/login`
 - Enviar credenciales para obtener un token JWT.
 
-## Versionamiento
-- Se recomienda usar versionado semántico y tags en Git (`v1.0.0`, `v1.1.0`, etc).
-- Actualiza la propiedad `<Version>` en los archivos `.csproj` para cada release.
 
-## Contribuciones
-Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerencias o mejoras.
 
-## Licencia
-Este proyecto está bajo la licencia MIT.
