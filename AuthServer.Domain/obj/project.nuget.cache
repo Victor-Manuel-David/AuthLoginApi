@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o7yXqBPpy501bqEifgRUlGLyn7gcT06JVOnt2iuqcIhI6RA7QAIFgVY5T3DilHNAy6mYC86YI6kntsc3MQypCg==",
+  "dgSpecHash": "iLBCTfHJG6rGem8tUXTDG7HhhpfQdBJ/3KDFiueAjn0VzOubvRJxfXEtNp2mimXr+Ba0JBbwCiPNC783f2OCKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\AuthServer.Domain\\AuthServer.Domain.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\AuthLoginAPI\\AuthServer.Domain\\AuthServer.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

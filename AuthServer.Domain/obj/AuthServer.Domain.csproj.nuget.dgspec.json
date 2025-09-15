@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\AuthServer.Domain\\AuthServer.Domain.csproj": {}
+    "C:\\Users\\user\\Documents\\AuthLoginAPI\\AuthServer.Domain\\AuthServer.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\AuthServer.Domain\\AuthServer.Domain.csproj": {
+    "C:\\Users\\user\\Documents\\AuthLoginAPI\\AuthServer.Domain\\AuthServer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\AuthServer.Domain\\AuthServer.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\AuthLoginAPI\\AuthServer.Domain\\AuthServer.Domain.csproj",
         "projectName": "AuthServer.Domain",
-        "projectPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\AuthServer.Domain\\AuthServer.Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\AuthLoginAPI\\AuthServer.Domain\\AuthServer.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\AuthServer.Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\AuthLoginAPI\\AuthServer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
